@@ -1,0 +1,7 @@
+{
+  "name": "Google Cast Card",
+  "description": "Beautiful Lovelace media player card for Google Cast & Nest Audio devices.",
+  "render_readme": true,
+  "filename": "google-cast-card.js",
+  "homeassistant": "2023.0.0"
+}
